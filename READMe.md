@@ -1,9 +1,6 @@
 # Starbucks Landing Page Clone
 
-Este projeto é uma recriação de uma landing page promocional da Starbucks, desenvolvido como parte do curso de HTML5 e CSS3. O objetivo foi aplicar na prática os conceitos de estruturação de layout moderno, estilização e responsividade.
-
-![Prévia da página da Starbucks](./assets/imagens/preview.png)
-*(Sugestão: tire um print da sua tela e salve com o nome `preview.png` dentro da pasta `assets/imagens` para que a imagem apareça aqui)*
+Este projeto é uma recriação de uma landing page promocional da Starbucks, desenvolvido como parte do curso de HTML5 e CSS3. O objetivo foi aplicar na prática os conceitos de estruturação de layout moderno, estilização e responsividade. Feito com auxílio do professor Boniecky Lacerda do curso de HTML e CSS da B7Web.
 
 ---
 
