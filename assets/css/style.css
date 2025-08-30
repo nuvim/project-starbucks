@@ -140,7 +140,6 @@ h2 {
     background-position: center;
 }
 
-/* Area 2 */
 .area2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -166,7 +165,6 @@ h2 {
     background-position: center;
 }
 
-/* Area 3 */
 .area3 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -187,7 +185,6 @@ h2 {
     background-position: center;
 }
 
-/* Area 4 */
 .area4 {
     display: grid;
     grid-template-columns: 500px 1fr;
@@ -203,4 +200,17 @@ h2 {
 .area4--img1 {
     background-image: url('../imagens/bg3.jpg');
     background-position: left;
+}
+
+.area5 {
+    background-image: url(../imagens/bg4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+footer {
+    background-color:#333;
+    color: #b3b3b3;
+    padding: 80px;
+    text-align: center;
 }
